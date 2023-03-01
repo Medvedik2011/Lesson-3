@@ -1,1 +1,2 @@
 conflict from local
+conflict from remote
